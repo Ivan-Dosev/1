@@ -1,0 +1,48 @@
+[
+    {
+        "company" : "Phase 1",
+        "title" : "Launch",
+        "duration" : "Date will be announced soon",
+        "description" : 
+        [
+            "10 000 members of our community will be able to mint their NFT pandas ",
+            "There will be no pre-sale"
+        ]
+        
+    },
+    {
+        "company" : "Phase 2",
+        "title" : "Growth",
+        "description" : 
+        [
+            "Once the NFTs are sold-out, a VIP club will be built where only owners of the Bored Pandas will have access"
+        ]
+        
+    },
+    {
+        "company" : "Phase 3",
+        "title" : "Maturity",
+        "description" : 
+        [
+            "The fun starts here",
+            "We will organise different virtual and real events, where we can meet together",
+            "Of course, we will join the metaverse",
+            "We are establishing a collaboration with a few major company leaders in Clothing, Action-camera and Energy-drink industries to collaborate with us and organise our events together.",
+            "Maybe you already know who are they, but details will be announced in the VIP group"
+        ]
+        
+    },
+    {
+        "company" : "Phase 4",
+        "title" : "Split",
+        "description" : 
+        [
+            "We are aiming to be the largest action community therefore we need to split the interests",
+            "We will create different sub-channels based on the interests of our members",
+            "Some examples be like:",
+            "Video-games, Winter sports, Water sports, Sky sports, Nature, Biking, Street performance, etc.",
+            "In such a way, we will be able to organise our events faster while still being connected with the entire community"
+        ]
+        
+    }
+]
